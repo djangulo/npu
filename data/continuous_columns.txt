@@ -1,0 +1,12 @@
+sales_elapsed_month
+production_elapsed_month
+production_elapsed_week
+sales_warranty_elapsed_month
+production_wty_elapsed_month
+service_qty
+labor_cost
+parts_cost
+tax_cost
+freight_cost
+others_cost
+prt_page_count

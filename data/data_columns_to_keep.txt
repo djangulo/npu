@@ -1,0 +1,130 @@
+Series No
+Sales Subsidiary Code
+Claim No
+Requested Date
+Completed Date
+System Input Date
+bill confirm Date
+Asc Type
+ASC Code
+Asc Name
+HQ SVC product
+CIS Product Code (Index)
+CIS Product (Index)
+CIS Product Code (Cost)
+CIS Product (Cost)
+Product Code
+Product Name
+Provision Product Code
+Provision Product Text
+AP Posting Type
+Chassis
+Specification 1
+Specification 2
+Specification 3
+Specification 4
+Specification 5
+Specification 6
+Production Subsidiary Code
+Production Subsidiary
+Basic Model
+Running Model
+Product Serial No
+Production Date
+Production Month
+Purchase Date
+Sales Elapsed Month
+Production Elapsed Month
+Production Elapsed Week
+Sales Warranty Elapsed Month
+Production Wty Elapsed Month
+Service Type
+W'ty Labor Type
+W'ty BILL Type
+W'ty Special Code1
+W'ty Special Code2
+W'ty Special Code3
+W'ty Special Code4
+Condition Code
+Defect Code
+Symptom Group Name
+Symptom Code
+Symptom Code Name
+Repair Code
+Repair Code Name
+Block Code
+Block Code Name
+Detail Symptom Desc
+Detail Repair  Desc
+T_ACT Text
+Index Valid Text
+In/Out Warranty Text
+Wty Cost Type Text
+Service QTY
+Currency
+Labor Cost
+Parts Cost
+Tax Cost
+Freight Cost
+Others Cost
+QTY MANAGE
+REPAIR RESULT
+PARTS_USED
+Parts Code1
+Parts Code1 Desc
+Parts Price1
+Location No1
+Parts Code2
+Parts Code2 Desc
+Parts Price2
+Location No2
+Parts Code3
+Parts Code3 Desc
+Parts Price3
+Location No3
+Parts Code4
+Parts Code4 Desc
+Parts Price4
+Location No4
+Parts Code5
+Parts Code5 Desc
+Parts Price5
+Location No5
+CUST_REQ
+Retrun Reason
+INS_PACK
+INS_ACCY
+INS_APP
+INS_FUNC
+CRT/LCD Serial No.
+CRT material No.
+[VD] FW Version
+Local Point
+[PRT] Page Count
+Symptom Code(감성품질)
+Parallel Import (역외물량 구분)
+Sales Company(원 판매 조직)
+S/O Requested Date
+S/O TR_No
+TR_TYPE
+S/O Status Reason Code
+S/O Status Reason Text
+S/O Symptom1 code
+S/O Symptom1 Text
+S/O Symptom2 code
+S/O Symptom2 Text
+S/O Symptom3 code
+S/O Symptom3 Text
+Created by
+Lens
+Site
+Group
+Week
+Scorecard Group
+Channel
+Agent Tenure
+Place of Purchase
+Parts Used Yes
+Parts Used No
+TRUE NPU
+ANDT Flag
